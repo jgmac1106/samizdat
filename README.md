@@ -1,2 +1,2 @@
-# samizdat
-Journal of Blogging and Social Media Research
+# Samizdat
+An open source and free journal on blogging and social media research
